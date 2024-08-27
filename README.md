@@ -1,10 +1,10 @@
 # About Me 🦉
 
 
-**Irvin-S16/irvin-s16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Irvin-S16/irvin-s16** is my ✨ _special_ ✨ repository GitHub profile.
 
 
-Here are some ideas to get you started:
+Me facts:
 
 - 🔭 I’m currently working on myself to become someone like Sir Jem or Sir Kevin one day.
 - 🌱 I’m currently learning Github and Python to hopefully pass CS11.
